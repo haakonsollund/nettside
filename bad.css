@@ -1,0 +1,88 @@
+body {
+height: 100px;
+width: 100px;
+    
+    background-image: url("pattern2.png");
+
+}
+
+.meny {
+    display: flex;
+flex-direction: column;
+    justify-content: center;
+   
+    align-content: center;
+
+
+}
+h2{
+color: white;
+
+}
+h1{
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+.container{
+width: 1500px;
+
+display: flex;
+flex-direction:column;
+
+}
+
+.options{
+height: 70px;
+display: flex;
+justify-content: center;
+
+
+}
+
+.overskrift{
+    display: flex;
+    justify-content: center;
+
+}
+
+.pizza{
+height: 70px;
+display: flex;
+justify-content: center;
+
+
+
+}
+.apex{
+margin-right: 100px;
+
+
+}
+
+.links{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.bilder{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.bilde1{
+
+    margin-right: 100px;
+
+    margin-top: 100px;
+}
+
+.bilde2{
+    margin-top :100px;
+}
