@@ -46,11 +46,14 @@ justify-content: center;
 
 }
 
+.tom {
+    height: 20px;
+}
+
 .pizza{
 height: 70px;
 display: flex;
 justify-content: center;
-
 
 
 }
@@ -82,4 +85,8 @@ margin-right: 100px;
 
 .bilde2{
     margin-top :100px;
+}
+.magne {
+    margin-left: 200px;
+    margin-top: 1000px;
 }
